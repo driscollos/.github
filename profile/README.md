@@ -1,7 +1,10 @@
 # Driscoll Open Source
 
-This organisation is a container for projects I have chosen to release open source.
+This organisation is a container for projects released  as variations of Open Source by 
+John Driscoll.
 
 ## Contents
 
-Please stand by for updates.
+* [Config](https://github.com/driscollos/config)
+  * Library for populating config structs from environment variables, commandline arguments or
+  multi level `yaml` files
